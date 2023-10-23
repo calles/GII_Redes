@@ -31,10 +31,10 @@ Su función principal es asegurar que los bits puedan ser transmitidos de manera
 
 
 1. ¿Cuál de las siguientes es una característica del cable de fibra óptica monomodo?
-A. generalmente utiliza LED como fuente de luz
-B. núcleo relativamente mayor con varias rutas de luz
-C. menos costoso que el multimodo
-D. generalmente utiliza láseres como fuente de luz
+- [ ] generalmente utiliza LED como fuente de luz
+- [ ] núcleo relativamente mayor con varias rutas de luz
+- [ ] menos costoso que el multimodo
+- [ ] generalmente utiliza láseres como fuente de luz
  
 2. ¿Cuáles son las tres medidas para la transferencia de datos? (Elija tres).
 - [ ] capacidad de transferencia útil
