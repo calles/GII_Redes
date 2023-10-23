@@ -1,4 +1,6 @@
 Nivel Físico
-La capa física define las especificaciones eléctricas, mecánicas, de procedimiento y funcionales para activar, mantener y desactivar el enlace físico entre sistemas finales. Si desea recordar la Capa 1 en la menor cantidad de palabras posible, piense en señales y medios.
+La capa física define las especificaciones eléctricas, mecánicas, de procedimiento y funcionales para activar, 
+mantener y desactivar el enlace físico entre sistemas finales. Si desea recordar la Capa 1 en la menor cantidad de palabras posible, piense en señales y medios.
 
-Una de las funciones principales es codificar en señales los dígitos binarios que representan las tramas de la capa de Enlace de datos, además de transmitir y recibir estas señales a través de los medios físicos (alambres de cobre, fibra óptica o medio inalámbrico) que conectan los dispositivos de la red.
+Una de las funciones principales es codificar en señales los dígitos binarios que representan las tramas de la capa de Enlace de datos, 
+además de transmitir y recibir estas señales a través de los medios físicos (alambres de cobre, fibra óptica o medio inalámbrico) que conectan los dispositivos de la red.
