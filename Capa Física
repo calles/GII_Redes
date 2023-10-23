@@ -1,4 +1,4 @@
-#La Capa Física
+# La Capa Física
 La Capa Física es la primera capa del Modelo OSI (Open Systems Interconnection) y se encarga de gestionar la comunicación física entre los dispositivos de una red. 
 Esta capa se encarga de la transmisión de bits a través del medio de comunicación físico, como cables o señales inalámbricas, y establece las características técnicas necesarias para que los datos puedan fluir de un dispositivo a otro.
 
