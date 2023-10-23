@@ -2,7 +2,7 @@
 
 - [X] 1. **Introducción**
 - [ ] 2. [Azure](https://azure.microsoft.com/en-us/free/students/) + [Packet Tracert](https://www.netacad.com/courses/packet-tracer)
-- [ ] 3. [**C. Física**](## La Capa Física)
+- [ ] 3. [**C. Física**](La Capa Física)
 - [ ] 4. Práctica 1 (Topologías - PacketT) 
 - [ ] 5. **C. Enlace de datos**
 - [ ] 6. Práctica 2 (Config. Switch - PacketT)
