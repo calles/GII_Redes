@@ -17,6 +17,18 @@
 - [ ] 15. Práctica 6 (Certificado SSL - Azure)
 - [ ] 16. **C. Aplicación**
 
+## Modelo OSI
+El Modelo OSI fue creado por la ISO (Organización Internacional de estándares).
+
+Se utiliza para el diseño de redes de datos, especificaciones de funcionamiento y resolución de problemas.
+En un principio, OSI pretendía sentar unas reglas que definieran un marco de actuación para el conjunto de protocolos que lo formaban.
+
+Lamentablemente , Internet basado en TCP/IP fue adoptado velozmente y el modelo OSI quedó atrás.
+No obstante aún permanece como una guía universalmente aceptada , ya que define con precisión las actividades en cada capa.
+
+El sucesor, el modelo TCP/IP, define cuatro categorías de funciones que deben tener lugar para que las comunicaciones sean exitosas. La arquitectura de la suite de protocolos TCP/IP sigue la estructura de este modelo. Por esto, es común que al modelo de Internet se lo conozca como modelo TCP/IP.
+
+![image1](https://github.com/calles/GII_Redes/assets/22343642/eb5956b1-2cbf-4231-ad0a-0d9600f2641f)
 
 
 ## La Capa Física
