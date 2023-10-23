@@ -10,7 +10,7 @@
 - [ ] 8. Práctica 3 (Config. Router - PacketT)
 - [ ] 9. **C. Transporte**
 - [ ] 10. Práctica 4 (Config. Servidor FTP VS TFTP - Azure)
-- [ ] 11. PARCIAL (C. 1-5)
+- [ ] 11. _PARCIAL (C. 1-5)_
 - [ ] 12. **C. Sesión**
 - [ ] 13. Práctica 5 (Config. Servidor NFS - Azure)
 - [ ] 14. **C. Presentación**
