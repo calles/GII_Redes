@@ -28,8 +28,7 @@ No obstante aún permanece como una guía universalmente aceptada , ya que defin
 
 El sucesor, el modelo TCP/IP, define cuatro categorías de funciones que deben tener lugar para que las comunicaciones sean exitosas. La arquitectura de la suite de protocolos TCP/IP sigue la estructura de este modelo. Por esto, es común que al modelo de Internet se lo conozca como modelo TCP/IP.
 
-![image1](https://github.com/calles/GII_Redes/assets/22343642/eb5956b1-2cbf-4231-ad0a-0d9600f2641f)
-
+![image0](https://github.com/calles/GII_Redes/assets/22343642/60b6ae2f-0b27-4609-a38b-068dc64d3642)
 
 ## La Capa Física
 La Capa Física es la primera capa del Modelo OSI (Open Systems Interconnection) y se encarga de gestionar la comunicación física entre los dispositivos de una red. 
