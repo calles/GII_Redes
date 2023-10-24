@@ -1,4 +1,6 @@
 # GII_Redes
+![image](https://github.com/calles/GII_Redes/assets/22343642/0f89137c-89ae-4b66-9e87-99815972d036)
+
 Contacto: `rodrigo.zaldana.calles@uneatlantico.es`
 
 ![image](https://github.com/calles/GII_Redes/assets/22343642/28abbe51-daf8-412d-86c3-345a7f7def83)
