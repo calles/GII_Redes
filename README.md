@@ -1,4 +1,4 @@
-## GII_Redes
+# GII_Redes
 Contacto: `rodrigo.zaldana.calles@uneatlantico.es`
 
 #### Contenidos
