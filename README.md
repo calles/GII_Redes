@@ -1,5 +1,5 @@
 # GII_Redes
-Contacto: **rodrigo.zaldana.calles@uneatlantico.es**
+Contacto: `rodrigo.zaldana.calles@uneatlantico.es`
 
 ### Contenidos
 - [X] 1. [**Introducción**](https://docs.google.com/presentation/d/1yr5lPUGB0K5CXoYkVqf3hYfCPm9T3z6tUipzuGNCgBI/edit?usp=sharing)
@@ -18,7 +18,9 @@ Contacto: **rodrigo.zaldana.calles@uneatlantico.es**
 - [ ] 14. **C. Presentación**
 - [ ] 15. Práctica 6 (Certificado SSL - Azure)
 - [ ] 16. **C. Aplicación**
+      
 _________
+
 ## Modelo OSI
 El Modelo OSI fue creado por la ISO (Organización Internacional de estándares).
 
