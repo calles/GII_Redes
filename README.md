@@ -1,7 +1,7 @@
-# GII_Redes
+## GII_Redes
 Contacto: `rodrigo.zaldana.calles@uneatlantico.es`
 
-### Contenidos
+#### Contenidos
 - [X] 1. [**Introducción**](https://docs.google.com/presentation/d/1yr5lPUGB0K5CXoYkVqf3hYfCPm9T3z6tUipzuGNCgBI/edit?usp=sharing)
 - [X] 2. [Azure](https://azure.microsoft.com/en-us/free/students/) + [Packet Tracert](https://www.netacad.com/courses/packet-tracer)
 - [ ] 3. [**C. Física**](https://github.com/calles/GII_Redes/blob/main/README.md#la-capa-f%C3%ADsica)
@@ -21,7 +21,7 @@ Contacto: `rodrigo.zaldana.calles@uneatlantico.es`
       
 _________
 
-## Modelo OSI
+### Modelo OSI
 El Modelo OSI fue creado por la ISO (Organización Internacional de estándares).
 
 Se utiliza para el diseño de redes de datos, especificaciones de funcionamiento y resolución de problemas.
@@ -34,7 +34,7 @@ El sucesor, el modelo TCP/IP, define cuatro categorías de funciones que deben t
 
 ![image0](https://github.com/calles/GII_Redes/assets/22343642/60b6ae2f-0b27-4609-a38b-068dc64d3642)
 
-## La Capa Física
+### La Capa Física
 La Capa Física es la primera capa del Modelo OSI (Open Systems Interconnection) y se encarga de gestionar la comunicación física entre los dispositivos de una red. 
 Esta capa se encarga de la transmisión de bits a través del medio de comunicación físico, como cables o señales inalámbricas, y establece las características técnicas necesarias para que los datos puedan fluir de un dispositivo a otro.
 
