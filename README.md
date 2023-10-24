@@ -17,7 +17,7 @@ _________
 - [ ] 14. **C. Presentación**
 - [ ] 15. Práctica 6 (Certificado SSL - Azure)
 - [ ] 16. **C. Aplicación**
-
+_________
 ## Modelo OSI
 El Modelo OSI fue creado por la ISO (Organización Internacional de estándares).
 
@@ -80,4 +80,4 @@ Su función principal es asegurar que los bits puedan ser transmitidos de manera
 - [ ] acústico
 
 Referencias:
-https://tododeredes.com/modelo-osi/capa-1/
+- https://tododeredes.com/modelo-osi/capa-1/
