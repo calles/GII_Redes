@@ -1,4 +1,5 @@
 # GII_Redes
+Contacto: rodrigo.zaldana.calles@uneatlantico.es
 
 - [X] 1. [**Introducción**](https://docs.google.com/presentation/d/1yr5lPUGB0K5CXoYkVqf3hYfCPm9T3z6tUipzuGNCgBI/edit?usp=sharing)
 - [X] 2. [Azure](https://azure.microsoft.com/en-us/free/students/) + [Packet Tracert](https://www.netacad.com/courses/packet-tracer)
