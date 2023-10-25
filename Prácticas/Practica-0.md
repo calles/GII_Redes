@@ -9,6 +9,10 @@ En un documento de PDF, adjunta las capturas de pantalla similiares a la prácti
 <img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/522039be-e908-4a49-b913-3e8d22224902">
 
 3. Crear una máquina virtual en Azure con Windows Server (podrás estimar los costes del servicio deacuerdo a la ubicación que selecciones) -> [Calculadora de precios](https://azure.microsoft.com/es-es/pricing/calculator/)
+<img width="480" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/6d90d48c-8122-4236-828a-166a387201ba">
+<img width="480" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/bd028cf3-a717-4d13-8806-0a956054037a">
+
+
    
 5. Conectarse a la VM
    
