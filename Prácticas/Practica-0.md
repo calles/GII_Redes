@@ -16,12 +16,14 @@ parte 2
 <img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/bd028cf3-a717-4d13-8806-0a956054037a">
 
 5. Conectate a la VM por "RPD" y "Bastión".
+   
 RPD
 <img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/48fada4a-4155-442d-817e-c700235f2759">
 Bastión
 <img width="960" alt="Captura de pantalla 2023-10-25 223257" src="https://github.com/calles/GII_Redes/assets/22343642/d27a4a21-90f8-4e4a-afde-c8cd04c2974f">
 
 7. Crea una máquina virtual en un entorno Linux
+   
 Parte 1
 <img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/2e0c9d70-1dfd-4198-9011-c448c8d63115">
 Parte 2
