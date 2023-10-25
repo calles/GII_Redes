@@ -1,5 +1,5 @@
 # AZURE + PACKET TRACERT
-En un documento de PDF, adjunta las capturas de pantalla similiares a la practica. Es importante que aparezca el usuario de cada uno y posteriormente deberá entregarlo en el campus virtual.
+En un documento de PDF, adjunta las capturas de pantalla similiares a la práctica. Es importante que aparezca el usuario de cada uno y posteriormente deberá entregarlo en el campus virtual.
 
 ## AZURE
 1. Crea una cuenta en "Azure for student" y luego inicia sesión.
