@@ -2,11 +2,13 @@
 
 ## AZURE
 1. `Crear una cuenta en Azure for student`
-2. `Revisar/consultar el credito disponible`
-3. `Crear una máquina virtual en un entorno Windows Server`
-4. `Conectarse a la VM`
-5. `Crear una máquina virtual en un entorno Linux`
-6. `Conectarse a la VM`
+<img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/c26bb7ef-c6f2-476d-8393-c2a6d0ab851c">
+
+3. `Revisar/consultar el credito disponible`
+4. `Crear una máquina virtual en un entorno Windows Server`
+5. `Conectarse a la VM`
+6. `Crear una máquina virtual en un entorno Linux`
+7. `Conectarse a la VM`
 
 ## PACKET TRACERT
 1. `Agregar un PC`
