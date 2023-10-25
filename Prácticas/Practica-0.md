@@ -17,9 +17,13 @@ En un documento de PDF, adjunta las capturas de pantalla similiares a la prácti
 <img width="380" alt="Captura de pantalla 2023-10-25 223257" src="https://github.com/calles/GII_Redes/assets/22343642/d27a4a21-90f8-4e4a-afde-c8cd04c2974f">
 
 5. Crea una máquina virtual en un entorno Linux
-   
-6. Conectate a la VM.
+<img width="380" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/2e0c9d70-1dfd-4198-9011-c448c8d63115">
+<img width="380" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/17989780-ae51-45f1-9653-c12a55b78c28">
+  
+6. Conectate a la VM por "bastion" con la clave privada.
+<img width="960" alt="Captura de pantalla 2023-10-25 230201" src="https://github.com/calles/GII_Redes/assets/22343642/f40f4259-e976-4429-bc20-6342ecdebf0b">
 
+   
 ## PACKET TRACERT
 1. `Agregar un PC`
 2. `Configurar el PC`
