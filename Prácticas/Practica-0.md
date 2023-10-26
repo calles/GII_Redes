@@ -1,7 +1,7 @@
 # [Azure](https://azure.microsoft.com/en-us/free/students/) + [Packet Tracert](https://www.netacad.com/courses/packet-tracer)
 En un documento de PDF, adjunta las capturas de pantalla similiares a la práctica. Es importante que la calidad de la captura de pantalla sea buena para identificar el usuario de cada uno y posteriormente entregarlo en el campus virtual.
 
-## AZURE
+## <span style="color:RED">AZURE</span>.
 
 ## Crea una cuenta en "Azure for student" y luego inicia sesión.
 
@@ -11,7 +11,8 @@ En un documento de PDF, adjunta las capturas de pantalla similiares a la prácti
 
 <img width="900" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/522039be-e908-4a49-b913-3e8d22224902">
 
-## Crea una máquina virtual en Azure con Windows Server (podrás estimar los costes deacuerdo a la ubicación seleccionada) -> [Calculadora de precios](https://azure.microsoft.com/es-es/pricing/calculator/)
+## Crea una máquina virtual en Azure con Windows Server 
+(podrás estimar los costes deacuerdo a la ubicación seleccionada) -> [Calculadora de precios](https://azure.microsoft.com/es-es/pricing/calculator/)
    
 ### parte 1
 
@@ -21,7 +22,7 @@ En un documento de PDF, adjunta las capturas de pantalla similiares a la prácti
 
 <img width="900" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/bd028cf3-a717-4d13-8806-0a956054037a">
 
-## Conectate a la VM por "RPD" y "Bastión". <br/>
+## Conectate a la VM por "RPD" y "Bastión".
 
 ### RPD
 
@@ -31,7 +32,7 @@ En un documento de PDF, adjunta las capturas de pantalla similiares a la prácti
 
 <img width="900" alt="Captura de pantalla 2023-10-25 223257" src="https://github.com/calles/GII_Redes/assets/22343642/d27a4a21-90f8-4e4a-afde-c8cd04c2974f">
 
-## Crea una máquina virtual en un entorno Linux. <br/>
+## Crea una máquina virtual en un entorno Linux.
 
 ### Parte 1
 
