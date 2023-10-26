@@ -1,4 +1,5 @@
 # AZURE + PACKET TRACERT
+[Azure](https://azure.microsoft.com/en-us/free/students/) + [Packet Tracert](https://www.netacad.com/courses/packet-tracer)
 En un documento de PDF, adjunta las capturas de pantalla similiares a la práctica. Es importante que aparezca el usuario de cada uno y posteriormente deberá entregarlo en el campus virtual.
 
 ## AZURE
