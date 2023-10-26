@@ -5,9 +5,9 @@ Contacto: `rodrigo.zaldana.calles@uneatlantico.es`
 
 #### Contenidos
 - [X] 1. [**Introducción**](https://docs.google.com/presentation/d/1yr5lPUGB0K5CXoYkVqf3hYfCPm9T3z6tUipzuGNCgBI/edit?usp=sharing)
-- [X] 2. [Azure](https://azure.microsoft.com/en-us/free/students/) + [Packet Tracert](https://www.netacad.com/courses/packet-tracer)
+- [X] 2. [Práctica 0](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Practica-0.md)
 - [ ] 3. [**C. Física**](https://github.com/calles/GII_Redes/blob/main/README.md#la-capa-f%C3%ADsica)
-- [ ] 4. [Práctica 1 (Topologías - PacketT)](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Practica-0.md)
+- [ ] 4. Práctica 1 (Topologías - PacketT)
 - [ ] 5. **C. Enlace de datos**
 - [ ] 6. Práctica 2 (Config. Switch - PacketT)
 - [ ] 7. **C. Red**
