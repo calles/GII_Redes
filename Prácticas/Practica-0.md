@@ -1,5 +1,5 @@
 # [Azure](https://azure.microsoft.com/en-us/free/students/) + [Packet Tracert](https://www.netacad.com/courses/packet-tracer)
-En un documento de PDF, adjunta las capturas de pantalla similiares a la práctica. Es importante que aparezca el usuario de cada uno y posteriormente deberá entregarlo en el campus virtual.
+En un documento de PDF, adjunta las capturas de pantalla similiares a la práctica. Es importante que la calidad de la captura de pantalla sea buena para identificar el usuario de cada uno y posteriormente entregarlo en el campus virtual.
 
 ## AZURE
 1. Crea una cuenta en "Azure for student" y luego inicia sesión.
@@ -31,6 +31,8 @@ Parte 2
   
 9. Conectate a la VM por "bastion" con la clave privada.
 <img width="960" alt="Captura de pantalla 2023-10-25 230201" src="https://github.com/calles/GII_Redes/assets/22343642/f40f4259-e976-4429-bc20-6342ecdebf0b">
+
+**NOTA: APAGAR LAS MÁQUINAS VIRTUALES PARA EVITAR COSTOS**
 
 ## PACKET TRACERT
 1. `Agregar un PC`
