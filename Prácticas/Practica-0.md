@@ -1,9 +1,9 @@
 # [Azure](https://azure.microsoft.com/en-us/free/students/) + [Packet Tracert](https://www.netacad.com/courses/packet-tracer)
 En un documento de PDF, adjunta las capturas de pantalla similiares a la práctica. Es importante que la calidad de la captura de pantalla sea buena para identificar el usuario de cada uno y posteriormente entregarlo en el campus virtual.
 
-$${\color{red}**Red**}$$
+## AZURE
 
-## Crea una cuenta en "Azure for student" y luego inicia sesión.
+$${\color{red}**Crea una cuenta en "Azure for student" y luego inicia sesión.**}$$
 
 <img width="900" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/c26bb7ef-c6f2-476d-8393-c2a6d0ab851c">
 
