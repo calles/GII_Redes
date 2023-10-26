@@ -3,7 +3,7 @@ En un documento de PDF, adjunta las capturas de pantalla similiares a la prácti
 
 ## AZURE
 
-$${\color{red}**Crea una cuenta en "Azure for student" y luego inicia sesión.**}$$
+$${\color{red}Crea una cuenta en "Azure for student" y luego inicia sesión.}$$
 
 <img width="900" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/c26bb7ef-c6f2-476d-8393-c2a6d0ab851c">
 
