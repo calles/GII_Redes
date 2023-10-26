@@ -49,9 +49,26 @@ En un documento de PDF, adjunta las capturas de pantalla similiares a la prácti
 🔴**NOTA: APAGAR LAS MÁQUINAS VIRTUALES PARA EVITAR GASTAR SALDO EN LA CUENTA**🔴
 
 ## PACKET TRACERT
-1. `Agregar un PC`
-2. `Configurar el PC`
-3. `Utilizar etiquetas`
-4. `Conocer las conexiones y cables`
-5. `Cambiar el tipo de vista`
-6.  `Exportar/Importar`
+
+### Agregar un PC
+<img width="900" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/8d409e09-8c0b-4c71-8596-1d6ee447ad78">
+
+### Apagar y Encender el PC
+<img width="900" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/28f391d9-0cc0-4c3e-90a1-0207a37fb16c">
+
+### Configurar una IP
+<img width="900" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/62a55954-deff-47cf-b116-5e34c7e5bab0">
+
+### Abrir el cmd
+<img width="900" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/3e49f93e-cb37-4207-ace2-fb6251413c01">
+
+### Utilizar notas
+<img width="900" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/bc91eb7f-0368-4d36-8e16-62af0cb1d749">
+
+### Cambiar el tipo de vista
+
+### Conocer las conexiones y cables
+
+### Exportar/Importar
+
+# Reto adicional:
