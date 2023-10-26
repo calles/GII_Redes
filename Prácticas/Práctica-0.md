@@ -46,9 +46,7 @@ En un documento de PDF, adjunta las capturas de pantalla similiares a la prácti
 
 <img width="900" alt="Captura de pantalla 2023-10-25 230201" src="https://github.com/calles/GII_Redes/assets/22343642/f40f4259-e976-4429-bc20-6342ecdebf0b">
 
-
-
-🔴**NOTA: APAGAR LAS MÁQUINAS VIRTUALES PARA EVITAR COSTOS**🔴
+🔴**NOTA: APAGAR LAS MÁQUINAS VIRTUALES PARA EVITAR GASTAR SALDO EN LA CUENTA**🔴
 
 ## PACKET TRACERT
 1. `Agregar un PC`
