@@ -1,7 +1,7 @@
 # [Azure](https://azure.microsoft.com/en-us/free/students/) + [Packet Tracert](https://www.netacad.com/courses/packet-tracer)
 En un documento de PDF, adjunta las capturas de pantalla similiares a la práctica. Es importante que la calidad de la captura de pantalla sea buena para identificar el usuario de cada uno y posteriormente entregarlo en el campus virtual.
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+<font color='red'>test blue color font</font>
 
 ## Crea una cuenta en "Azure for student" y luego inicia sesión.
 
