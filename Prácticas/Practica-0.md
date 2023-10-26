@@ -12,6 +12,7 @@ En un documento de PDF, adjunta las capturas de pantalla similiares a la prácti
    
 parte 1
 <img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/6d90d48c-8122-4236-828a-166a387201ba">
+
 parte 2
 <img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/bd028cf3-a717-4d13-8806-0a956054037a">
 
@@ -26,6 +27,7 @@ Bastión
 
 Parte 1
 <img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/2e0c9d70-1dfd-4198-9011-c448c8d63115">
+
 Parte 2
 <img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/17989780-ae51-45f1-9653-c12a55b78c28">
   
