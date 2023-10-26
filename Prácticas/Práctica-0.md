@@ -66,9 +66,12 @@ En un documento de PDF, adjunta las capturas de pantalla similiares a la prácti
 <img width="900" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/bc91eb7f-0368-4d36-8e16-62af0cb1d749">
 
 ### Cambiar el tipo de vista
+<img width="900" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/245ba4f8-d091-476c-b183-6caf4f54c9d7">
 
 ### Conocer las conexiones y cables
+<img width="222" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/9181fb3f-6d1c-4a92-94f7-1d85a92cc011">
 
 ### Exportar/Importar
+<img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/1a87f9cd-b785-47be-867a-4642df2fdc9d">
 
 # Reto adicional:
