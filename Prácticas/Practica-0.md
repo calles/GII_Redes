@@ -18,11 +18,8 @@ En un documento de PDF, adjunta las capturas de pantalla similiares a la prácti
 
 5. Conectate a la VM por "RPD" y "Bastión". <br/>
    
-   - RPD
-<img width="900" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/48fada4a-4155-442d-817e-c700235f2759">
-
-   - Bastión
-<img width="900" alt="Captura de pantalla 2023-10-25 223257" src="https://github.com/calles/GII_Redes/assets/22343642/d27a4a21-90f8-4e4a-afde-c8cd04c2974f">
+   - RPD <img width="900" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/48fada4a-4155-442d-817e-c700235f2759"><br/>
+   - Bastión <img width="900" alt="Captura de pantalla 2023-10-25 223257" src="https://github.com/calles/GII_Redes/assets/22343642/d27a4a21-90f8-4e4a-afde-c8cd04c2974f">
 
 7. Crea una máquina virtual en un entorno Linux. <br/>
 
