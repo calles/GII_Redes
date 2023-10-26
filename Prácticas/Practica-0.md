@@ -10,25 +10,26 @@ En un documento de PDF, adjunta las capturas de pantalla similiares a la prácti
 
 3. Crea una máquina virtual en Azure con Windows Server (podrás estimar los costes deacuerdo a la ubicación seleccionada) -> [Calculadora de precios](https://azure.microsoft.com/es-es/pricing/calculator/)
    
-parte 1
+- parte 1
 <img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/6d90d48c-8122-4236-828a-166a387201ba">
 
-parte 2
+- parte 2
 <img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/bd028cf3-a717-4d13-8806-0a956054037a">
 
 5. Conectate a la VM por "RPD" y "Bastión". <br/>
    
-RPD
+- RPD
 <img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/48fada4a-4155-442d-817e-c700235f2759">
-Bastión
+
+- Bastión
 <img width="960" alt="Captura de pantalla 2023-10-25 223257" src="https://github.com/calles/GII_Redes/assets/22343642/d27a4a21-90f8-4e4a-afde-c8cd04c2974f">
 
 7. Crea una máquina virtual en un entorno Linux. <br/>
 
-Parte 1
+- Parte 1
 <img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/2e0c9d70-1dfd-4198-9011-c448c8d63115">
 
-Parte 2
+- Parte 2
 <img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/17989780-ae51-45f1-9653-c12a55b78c28">
   
 9. Conectate a la VM por "bastion" con la clave privada.
