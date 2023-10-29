@@ -6,7 +6,7 @@ Contacto: `rodrigo.zaldana.calles@uneatlantico.es`
 #### Contenidos
 - [X] 1. [**Introducción**](https://docs.google.com/presentation/d/1yr5lPUGB0K5CXoYkVqf3hYfCPm9T3z6tUipzuGNCgBI/edit?usp=sharing)
 - [X] 2. [Práctica 0](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Práctica-0.md)
-- [ ] 3. [**C. Física**](https://github.com/calles/GII_Redes/blob/main/README.md#la-capa-f%C3%ADsica)
+- [ ] 3. [**C. Física**]([https://github.com/calles/GII_Redes/blob/main/README.md#la-capa-f%C3%ADsica](https://docs.google.com/presentation/d/1-JkrwUe8DYdOCVBbtC1jZSPmkWYSMAfA/edit?usp=sharing&ouid=115557200077044032866&rtpof=true&sd=true))
 - [ ] 4. Práctica 1 (Topologías - PacketT)
 - [ ] 5. **C. Enlace de datos**
 - [ ] 6. Práctica 2 (Config. Switch - PacketT)
@@ -36,16 +36,7 @@ El sucesor, el modelo TCP/IP, define cuatro categorías de funciones que deben t
 
 ![image0](https://github.com/calles/GII_Redes/assets/22343642/60b6ae2f-0b27-4609-a38b-068dc64d3642)
 
-### La Capa Física
-La Capa Física es la primera capa del Modelo OSI (Open Systems Interconnection) y se encarga de gestionar la comunicación física entre los dispositivos de una red. 
-Esta capa se encarga de la transmisión de bits a través del medio de comunicación físico, como cables o señales inalámbricas, y establece las características técnicas necesarias para que los datos puedan fluir de un dispositivo a otro.
-
-En la Capa Física se definen diferentes aspectos relacionados con la transmisión de bits, como la codificación de la señal, la velocidad de transmisión, el tipo de cableado utilizado y la topología de la red. 
-Además, esta capa también se encarga de gestionar la sincronización de los dispositivos y de detectar y corregir posibles errores de transmisión.
-
-Es importante destacar que la Capa Física es independiente del tipo de red o del protocolo de comunicación utilizado. 
-Su función principal es asegurar que los bits puedan ser transmitidos de manera fiable y eficiente a través del medio físico, para que las capas superiores del Modelo OSI puedan encargarse de la transferencia de datos de manera correcta.
-
+### TEST
 
 1. ¿Cuál de las siguientes es una característica del cable de fibra óptica monomodo?
 - [ ] generalmente utiliza LED como fuente de luz
