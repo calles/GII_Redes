@@ -1,15 +1,15 @@
 # Práctica 1
 
 1. Crear un plano de un piso con 3 habitaciones (LibreCad)
-	-> un cuarto para los servidores (Máx. Seguridad).
-	-> un cuarto para el servicio de internet café 
-	-> un cuarto donde trabajan los empleados (Acceso restringido).
+	+ un cuarto para los servidores (Máx. Seguridad).
+	+ un cuarto para el servicio de internet café 
+	+ un cuarto donde trabajan los empleados (Acceso restringido).
 
 1.1. Paleta de colores: 
-	- Con rojo cables electricos.
- 	- Con Verde oscuro cables de red o de datos.
-	- Con Blanco las paredes y los muebles.
-	- Con Azul los dispositivos o hardware.
+	+ Con rojo cables electricos.
+ 	+ Con Verde oscuro cables de red o de datos.
+	+ Con Blanco las paredes y los muebles.
+	+ Con Azul los dispositivos o hardware.
 
 2. Simular las topologias de red física utilizando los respectivos elementos en packet tracert (Cables, Ordenadores y Switches)
 	+ Bus
