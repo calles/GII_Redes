@@ -4,9 +4,9 @@ Contacto: `rodrigo.zaldana.calles@uneatlantico.es`
 ![image](https://github.com/calles/GII_Redes/assets/22343642/28abbe51-daf8-412d-86c3-345a7f7def83)
 
 #### Contenidos
-- [X] 1. [**Introducción**](https://docs.google.com/presentation/d/1yr5lPUGB0K5CXoYkVqf3hYfCPm9T3z6tUipzuGNCgBI/edit?usp=sharing)
-- [X] 2. [Práctica 0](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Práctica-0.md)
-- [X] 3. [**Topologias de red/Modelo OSI**](https://docs.google.com/presentation/d/1-JkrwUe8DYdOCVBbtC1jZSPmkWYSMAfA/edit?usp=sharing&ouid=115557200077044032866&rtpof=true&sd=true)
+- [X] 1. **Introducción** [Ir](https://docs.google.com/presentation/d/1yr5lPUGB0K5CXoYkVqf3hYfCPm9T3z6tUipzuGNCgBI/edit?usp=sharing)
+- [X] 2. Práctica 0 [Ir](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Práctica-0.md)
+- [X] 3. **Topologias de red/Modelo OSI** [Ir](https://docs.google.com/presentation/d/1-JkrwUe8DYdOCVBbtC1jZSPmkWYSMAfA/edit?usp=sharing&ouid=115557200077044032866&rtpof=true&sd=true)
 - [ ] 4. Práctica 1 (Topologías - PacketT) [Ir](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica-1.md)
 - [ ] 5. **Capa 1**
 - [ ] 6. Práctica 2 (Config. Switch - PacketT)
