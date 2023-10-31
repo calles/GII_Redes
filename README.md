@@ -1,5 +1,5 @@
 # GII_Redes
-Rodrigo Zaldaña
+**Rodrigo Zaldaña** <br/>
 `rodrigo.zaldana.calles@uneatlantico.es`
 
 <img width="300" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/28abbe51-daf8-412d-86c3-345a7f7def83">
