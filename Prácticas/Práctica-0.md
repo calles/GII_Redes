@@ -73,5 +73,3 @@ En un documento de PDF, adjunta las capturas de pantalla similiares a la prácti
 
 ### Exportar/Importar
 <img width="960" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/1a87f9cd-b785-47be-867a-4642df2fdc9d">
-
-# Reto adicional:
