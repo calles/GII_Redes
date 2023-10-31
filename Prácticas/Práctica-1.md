@@ -29,11 +29,7 @@ Ejemplo:
 	+ Hibrida o Mixta
 
 3. Utilizando ejemplos de la vida real dibuja los siguientes tipos de redes (Utilizar la creatividad):
-	* PAN
-	* LAN
-	* MAN
-	* WAN
-<img width="300" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/8d08e52f-9c31-4288-b6ec-1eeb10af48b9">
 
+<img width="300" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/8d08e52f-9c31-4288-b6ec-1eeb10af48b9">
 
 **🔴Tomar capturas de pantalla y colocarlas en un PDF para posteriormente subirlo al campus virtual.🔴**
