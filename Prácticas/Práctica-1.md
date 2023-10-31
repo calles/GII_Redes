@@ -5,7 +5,8 @@
 	+ un cuarto para el servicio de internet café 
 	+ un cuarto donde trabajan los empleados (Acceso restringido).
 
-1.1. Paleta de colores: 
+Paleta de colores: 
+
 	+ Con rojo cables electricos.
  	+ Con Verde oscuro cables de red o de datos.
 	+ Con Blanco las paredes y los muebles.
