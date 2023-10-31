@@ -7,10 +7,10 @@
 
 Paleta de colores: 
 
-	+ Con rojo cables electricos.
- 	+ Con Verde oscuro cables de red o de datos.
-	+ Con Blanco las paredes y los muebles.
-	+ Con Azul los dispositivos o hardware.
+	- Con rojo cables electricos.
+ 	- Con Verde oscuro cables de red o de datos.
+	- Con Blanco las paredes y los muebles.
+	- Con Azul los dispositivos o hardware.
 
 2. Simular las topologias de red física utilizando los respectivos elementos en packet tracert (Cables, Ordenadores y Switches)
 	+ Bus
