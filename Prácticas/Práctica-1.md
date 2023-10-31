@@ -12,7 +12,9 @@ Paleta de colores:
 	- Con Blanco las paredes y los muebles.
 	- Con Azul los dispositivos o hardware.
 
-Ejemplo:  [Plano 2D](http://redplataformabibliotecakatherinebrech.blogspot.com/2012/10/planos.html)
+Ejemplo:  
+![image](https://github.com/calles/GII_Redes/assets/22343642/c1760efc-d20d-4b80-b3e8-40f01c68f8b7)
+
  
 2. Simular las topologias de red física utilizando los respectivos elementos en packet tracert (Cables, Ordenadores y Switches)
 	+ Bus
