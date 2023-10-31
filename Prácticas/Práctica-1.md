@@ -13,7 +13,7 @@ Paleta de colores:
 	- Con Azul los dispositivos o hardware.
 
 Ejemplo:  
-<img width="900" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/c1760efc-d20d-4b80-b3e8-40f01c68f8b7">
+<img width="600" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/c1760efc-d20d-4b80-b3e8-40f01c68f8b7">
 
  
 2. Simular las topologias de red física utilizando los respectivos elementos en packet tracert (Cables, Ordenadores y Switches)
