@@ -28,7 +28,7 @@ Ejemplo:
 	+ Malla Parcial
 	+ Hibrida o Mixta
 
-3. Utilizando ejemplos de la vida real dibujar los siguientes tipos de redes (Utilizar la creatividad):
+3. Utilizando ejemplos de la vida real dibuja los siguientes tipos de redes (Utilizar la creatividad):
 	* PAN
 	* LAN
 	* MAN
