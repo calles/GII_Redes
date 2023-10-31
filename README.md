@@ -3,7 +3,7 @@
 - [X] 1. **Introducción** 👉 [Enlace](https://docs.google.com/presentation/d/1yr5lPUGB0K5CXoYkVqf3hYfCPm9T3z6tUipzuGNCgBI/edit?usp=sharing)
 - [X] 2. Práctica 0 👉 [Enlace](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Práctica-0.md)
 - [X] 3. **Topologias de red/Modelo OSI** 👉 [Enlace](https://docs.google.com/presentation/d/1-JkrwUe8DYdOCVBbtC1jZSPmkWYSMAfA/edit?usp=sharing&ouid=115557200077044032866&rtpof=true&sd=true)
-- [X] 4. Práctica 1 (Topologías/planos) 👉 [Enlace](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica-1.md)
+- [X] 4. Práctica 1 (Topologías/Planos) 👉 [Enlace](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica-1.md)
 - [ ] 5. **Capa 1**
 - [ ] 6. Práctica 2 (Config. Switch - PacketT)
 - [ ] 7. **Capa 2**
