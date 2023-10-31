@@ -1,10 +1,5 @@
 # GII_Redes
-**Rodrigo Zaldaña** <br/>
-`rodrigo.zaldana.calles@uneatlantico.es`
-
-
-
-#### Contenidos
+## Contenidos
 - [X] 1. **Introducción** 👉 [Enlace](https://docs.google.com/presentation/d/1yr5lPUGB0K5CXoYkVqf3hYfCPm9T3z6tUipzuGNCgBI/edit?usp=sharing)
 - [X] 2. Práctica 0 👉 [Enlace](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Práctica-0.md)
 - [X] 3. **Topologias de red/Modelo OSI** 👉 [Enlace](https://docs.google.com/presentation/d/1-JkrwUe8DYdOCVBbtC1jZSPmkWYSMAfA/edit?usp=sharing&ouid=115557200077044032866&rtpof=true&sd=true)
@@ -27,3 +22,6 @@ _________
 #### Referencias:
 - [PEARSON](https://studylib.es/doc/8863200/redes-de-computadoras-5ta-edicion---tanenbaum)
 - https://tododeredes.com/modelo-osi/capa-1/
+_________
+**Rodrigo Zaldaña** <br/>
+`rodrigo.zaldana.calles@uneatlantico.es`
