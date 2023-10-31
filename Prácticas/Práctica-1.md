@@ -34,4 +34,4 @@ Ejemplo:
 	* MAN
 	* WAN 
 
-🔴Tomar capturas de pantalla y colocarlas en un PDF para posteriormente subirlo al campus virtual.🔴
+**🔴Tomar capturas de pantalla y colocarlas en un PDF para posteriormente subirlo al campus virtual.🔴**
