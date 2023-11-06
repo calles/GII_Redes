@@ -24,8 +24,11 @@ _________
 <img width="600" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/60b6ae2f-0b27-4609-a38b-068dc64d3642"><br/>
 _________
 **Referencias:**
+Libros
 - https://studylib.es/doc/8863200/redes-de-computadoras-5ta-edicion---tanenbaum
-- https://tododeredes.com/modelo-osi/capa-1/
+Modelo OSI
+https://tododeredes.com/modelo-osi/capa-1/
+Vulnerabilides
 - https://achirou.com/modelo-osi-capas-protocolos-y-vulnerabilidades/
 _________
 **Rodrigo Zaldaña** <br/>
