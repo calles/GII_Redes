@@ -26,8 +26,10 @@ _________
 **Referencias:**
 Libros
 - https://studylib.es/doc/8863200/redes-de-computadoras-5ta-edicion---tanenbaum
+<br/>
 Modelo OSI
-https://tododeredes.com/modelo-osi/capa-1/
+- https://tododeredes.com/modelo-osi/capa-1/
+<br/>
 Vulnerabilides
 - https://achirou.com/modelo-osi-capas-protocolos-y-vulnerabilidades/
 _________
