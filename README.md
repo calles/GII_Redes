@@ -26,10 +26,13 @@ _________
 **Referencias:** <br/>
 **Libros** <br/>
 - https://studylib.es/doc/8863200/redes-de-computadoras-5ta-edicion---tanenbaum
+  
 **Modelo OSI** <br/>
 - https://tododeredes.com/modelo-osi/capa-1/
+  
 **Vulnerabilides** <br/>
 - https://achirou.com/modelo-osi-capas-protocolos-y-vulnerabilidades/
+  
 _________
 **Rodrigo Zaldaña** <br/>
 `rodrigo.zaldana.calles@uneatlantico.es`
