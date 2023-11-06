@@ -23,14 +23,12 @@ _________
 ## Modelo OSI
 <img width="600" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/60b6ae2f-0b27-4609-a38b-068dc64d3642"><br/>
 _________
-**Referencias:**
-Libros
+**Referencias:** <br/>
+**Libros** <br/>
 - https://studylib.es/doc/8863200/redes-de-computadoras-5ta-edicion---tanenbaum
-<br/>
-Modelo OSI
+**Modelo OSI** <br/>
 - https://tododeredes.com/modelo-osi/capa-1/
-<br/>
-Vulnerabilides
+**Vulnerabilides** <br/>
 - https://achirou.com/modelo-osi-capas-protocolos-y-vulnerabilidades/
 _________
 **Rodrigo Zaldaña** <br/>
