@@ -1,3 +1,10 @@
-1. Imaginar una empresa que esta en un edificio.
-2. Crear 3 plantas para la empresa (planta -1, planta 0 y planta 1)
-3. 
+# EJECICIO PARA LOS NÚMEROS DE CARNET TERMINADOS EN NÚMERO PAR
+
++ En un hotel de 3 plantas plantas (edificio vertical) 
++  
+
+# EJECICIO PARA LOS NÚMEROS DE CARNET TERMINADOS EN NÚMERO IMPAR
+
+
++ En un restaurante de 4 plantas (edificio horizontal).
++  
