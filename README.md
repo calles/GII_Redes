@@ -20,14 +20,14 @@ _________
 ## Vulnerabilidades
 <img width="600" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/8f781e97-1d68-43b0-9bc2-d355b5774c8e"><br/>
 _________
-## Capas del modelo OSI
+## Capas
 <img width="600" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/60b6ae2f-0b27-4609-a38b-068dc64d3642"><br/>
 _________
 **Referencias:** <br/>
 <span style="color:blue">Libro</span>
 - https://studylib.es/doc/8863200/redes-de-computadoras-5ta-edicion---tanenbaum
   
-<span style="color:blue">Modelo OSI</span>
+<span style="color:blue">Capas del modelo OSI</span>
 - https://tododeredes.com/modelo-osi/capa-1/
   
 <span style="color:blue">Vulnerabilides</span>
