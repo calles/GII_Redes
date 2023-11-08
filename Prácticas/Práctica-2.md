@@ -11,7 +11,7 @@
 7. Desabilitar los puestos que no se esten utilizando.
 8. Hacer pruebas de ping para garantizar que las redes esten aisladas.
 
-NOTA: Cada planta dispone de un cuarto de comunicaciones para guardar los dispositivos de red. explicar en una nota la seguridad física para entrar a los cuartos de comunicaciones.
++ NOTA: Cada planta dispone de un cuarto de comunicaciones para guardar los dispositivos de red. explicar en una nota la seguridad física para entrar a los cuartos de comunicaciones.
 
 #### Ejercio para alumnos con carné terminados en número "IMPAR"
 
