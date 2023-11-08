@@ -10,6 +10,7 @@
 6. En un 4º switch configurar las Vlans para la red: Machines, Hall, Rooms.
 7. Desabilitar los puestos que no se esten utilizando.
 8. Hacer pruebas de ping para garantizar que las redes esten aisladas.
+9. Agregar un servidor que este conectado al switch de la planta 0. (No el 4º switch)
 
 + NOTA: Cada planta dispone de un cuarto de comunicaciones para guardar los dispositivos de red. explicar en una nota la seguridad física para entrar a los cuartos de comunicaciones.
 
@@ -23,5 +24,6 @@
 6. Habilitar en el switch que estará en Atención al cliente las Vlans para la red: Jewelry, Perfume, Support.
 7. Desabilitar los puestos que no se esten utilizando.
 8. Hacer pruebas de ping para garantizar que las redes esten aisladas.
+9. Agregar un servidor que este conectado al switch que estará en Atención al cliente.
 
 + NOTA: Cada planta dispone de un cuarto de comunicaciones para guardar los dispositivos de red. explicar en una nota la seguridad física para entrar a los cuartos de comunicaciones.
