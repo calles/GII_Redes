@@ -37,3 +37,10 @@
 ```Switch#configure terminal``` <br/>
 ```Switch(config)#interface range fastEthernet 0/3-9``` <br/>
 ```Switch(config-if-range)#shutdown```
+
+### Cambiar nombre al switch
+
+```Switch>enable``` <br/>
+```Switch#configure terminal``` <br/>
+```Switch(config)#hostname Xbox``` <br/>
+```Xbox(config)#```
