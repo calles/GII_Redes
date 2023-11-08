@@ -32,9 +32,8 @@
 ## Cheat Sheet
 
 ### Desabilitar puertos de switch
-``
-Switch>enable
-Switch#configure terminal 
-Switch(config)#interface range fastEthernet 0/3-9
-Switch(config-if-range)#shutdown
-``
+
+``Switch>enable``
+``Switch#configure terminal``
+``Switch(config)#interface range fastEthernet 0/3-9``
+``Switch(config-if-range)#shutdown``
