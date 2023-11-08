@@ -27,3 +27,12 @@
 9. Agregar un servidor que este conectado al switch que estará en Atención al cliente.
 
 + NOTA: Cada planta dispone de un cuarto de comunicaciones para guardar los dispositivos de red. explicar en una nota la seguridad física para entrar a los cuartos de comunicaciones.
+
+
+## Cheat Sheet
+
+### Desabilitar puertos de switch
+Switch>enable
+Switch#configure terminal 
+Switch(config)#interface range fastEthernet 0/3-9
+Switch(config-if-range)#shutdown
