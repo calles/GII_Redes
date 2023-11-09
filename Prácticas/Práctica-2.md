@@ -4,7 +4,7 @@
 
 1. En un **Hotel** de 3 plantas, se necesita crear una red LAN (Topologia de red en árbol).
 2. Las plantas son (Sala de juegos [planta -1] , Hall [Planta 0] y Habitaciones [Planta 1]).
-3. Para cada planta se necesita asignar 4 portátiles con sus respectivos nombres (Hostname) y sus propias IPs de acuerdo al sitio.
+3. Para cada planta se necesita asignar 4 portátiles con sus respectivos nombres (Hostname) y sus propias IPs correspondiente al sitio.
 4. Configurar un switch (nombre y seguridad) por cada planta.
 5. Los nombres dependerán de cada planta y del área en el que se encuentren.
 6. En un 4º switch configurar las Vlans para la red: Machines, Hall, Rooms.
@@ -18,7 +18,7 @@
 
 1. En un **Centro Comercial** que posee 3 áreas en fila, se necesita crear una red LAN (Topologia de red en estrelle extendida).
 2. Las áreas son: (Joyería [bloque 1], Atención al cliente [bloque 2] y Perfumeria [bloque 3]).
-3. Para cada negocio se necesita asignar 4 ordenadores con sus respectivos nombres (Hostname) y sus propias IPs de acuerdo al sitio.
+3. Para cada negocio se necesita asignar 4 ordenadores con sus respectivos nombres (Hostname) y sus propias IPs correspondiente al sitio.
 4. Configurar un switch (nombre y seguridad) por cada área.
 5. Los nombres dependerán de cada planta y del área en el que se encuentren.
 6. Habilitar en el switch que estará en Atención al cliente las Vlans para la red: Jewelry, Perfume, Support.
@@ -44,3 +44,11 @@
 ```Switch#configure terminal``` <br/>
 ```Switch(config)#hostname Xbox``` <br/>
 ```Xbox(config)#```
+
+### Colocar seguridad al switch
+
+```Switch>enable``` <br/>
+```Switch#configure terminal``` <br/>
+```Switch(config)#enable secret puerta1``` <br/>
+```Switch(config)#exit``` <br/>
+```Switch#exit```
