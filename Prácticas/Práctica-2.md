@@ -49,6 +49,22 @@
 
 ```Switch>enable``` <br/>
 ```Switch#configure terminal``` <br/>
-```Switch(config)#enable secret puerta1``` <br/>
+```Switch(config)#line console 0``` <br/>
+```Switch(config-line)#password key1``` <br/>
+```Switch(config-line)#login``` <br/>
+```Switch(config)#exit``` <br/>
+```Switch#exit``` <br/>
+
+```Switch>enable``` <br/>
+```Switch#configure terminal``` <br/>
+```Switch(config)#enable secret key2``` <br/>
+```Switch(config)#exit``` <br/>
+```Switch#exit```
+
+### Colocar un banner de bienvenida
+
+```Switch>enable``` <br/>
+```Switch#configure terminal``` <br/>
+```banner motd #ACCESO NO AUTORIZADO, NO ENTRAR#``` <br/>
 ```Switch(config)#exit``` <br/>
 ```Switch#exit```
