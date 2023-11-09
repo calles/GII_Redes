@@ -68,3 +68,11 @@
 ```banner motd #ACCESO NO AUTORIZADO, NO ENTRAR#``` <br/>
 ```Switch(config)#exit``` <br/>
 ```Switch#exit```
+
+### Configuración Vlan
+
+```Switch>enable``` <br/>
+```Switch#configure terminal``` <br/>
+```interface vlan 1``` <br/>
+```ip address (Dirección IP – Máscara de subred)``` <br/>
+```no shutdown```
