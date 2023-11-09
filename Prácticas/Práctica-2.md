@@ -69,10 +69,32 @@
 ```Switch(config)#exit``` <br/>
 ```Switch#exit```
 
-### Configuración Vlan
+### Configuración IP a la Vlan
 
 ```Switch>enable``` <br/>
 ```Switch#configure terminal``` <br/>
 ```interface vlan 1``` <br/>
 ```ip address (Dirección IP – Máscara de subred)``` <br/>
 ```no shutdown```
+
+### Guardar en memoria
+
+```copy running-config startup-config```
+
+### Nombre para las VLan
+
+```Switch>enable``` <br/>
+```Switch#configure terminal``` <br/>
+```vlan 1``` <br/>
+```name Practica2``` <br/>
+```exit```
+
+### Consultar puestos y vlans
+
+```#show vlan brief``` <br/>
+o <br/>
+```show vlan name practica2```
+
+### Comandos de Cisco
+
+```show ?```
