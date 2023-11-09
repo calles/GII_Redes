@@ -91,9 +91,9 @@
 
 ### Consultar puestos y vlans
 
-```#show vlan brief``` <br/>
+```Switch#show vlan brief``` <br/>
 o <br/>
-```show vlan name practica2```
+```Switch#show vlan name practica2```
 
 ### Comandos de Cisco
 
