@@ -16,7 +16,7 @@
 
 #### Ejercio para alumnos con carné terminados en número "IMPAR"
 
-1. En un **Centro Comercial** que posee 3 áreas en fila, se necesita crear una red LAN (Topologia de red en estrelle extendida).
+1. En un **Centro Comercial** que posee 3 áreas en fila, se necesita crear una red LAN (Topologia de red en estrella extendida).
 2. Las áreas son: (Joyería [bloque 1], Atención al cliente [bloque 2] y Perfumeria [bloque 3]).
 3. Para cada negocio se necesita asignar 4 ordenadores con sus respectivos nombres (Hostname) y sus propias IPs correspondiente al sitio.
 4. Configurar un switch (nombre y seguridad) por cada área.
