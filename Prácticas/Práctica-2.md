@@ -95,6 +95,12 @@
 o <br/>
 ```Switch#show vlan name practica2```
 
+### Cambiar Vlan
+```Switch>enable``` <br/>
+```Switch#configure terminal``` <br/>
+```interface fastEthernet 0/1``` <br/>
+```switch access vlan 10``` 
+
 ### Comandos de Cisco
 
 ```show ?```
