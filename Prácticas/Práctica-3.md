@@ -1,6 +1,7 @@
 ### Práctica 3 (Router)
 
 Utiliza el archivo de packet tracer dado por el profesor para terminar de configurar la red.
+Montar un servidor DHCP y agregar los ordenadores deben estar con IP dinámica
 
 ![image](https://github.com/calles/GII_Redes/assets/22343642/2c8fba11-012b-4aab-9c5b-6d6ce46c30c7)
 
