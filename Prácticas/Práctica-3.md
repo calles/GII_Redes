@@ -32,7 +32,7 @@ Nota: todos los dispositivos tiene que hacer ping.
 - R1(config)# line console 0
 - R1(config-line)# password key1
 - R1(config-line)# login
-- 
+  
 #### Contraseña parte 2
 - R1(config)# enable secret key1
 
