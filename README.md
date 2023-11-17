@@ -10,8 +10,8 @@
 - [X] 8. Práctica 3 (Config. Router - PacketT) 👉 [Enlace](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica-3.md)
 - [ ] 9. **Capa 3**
 - [ ] 10. Práctica 4 (Config. Servidor FTP VS TFTP - Azure)
-- [ ] 11. _PARCIAL (C. 1-5)_
-- [ ] 12. **Capa 4**
+- [ ] 11. **Capa 4**
+- [ ] 12. _PARCIAL (C. 1-4)_
 - [ ] 13. Práctica 5 (Config. Servidor NFS - Azure)
 - [ ] 14. **Capa 5**
 - [ ] 15. Práctica 6 (Certificado SSL - Azure)
