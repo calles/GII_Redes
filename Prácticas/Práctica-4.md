@@ -60,8 +60,8 @@ Abra la aplicación de servicios, busque "Microsoft FTP Server", haga clic derec
 ![image](https://github.com/calles/GII_Redes/assets/22343642/235f08e7-d804-4b17-8069-f455d66b06e9)
 
 ### Paso 12: Agregar los puertos en el Firewall
-Uso Cómo abrir un puerto en el Firewall de Windows Server para agregar los puertos en su Firewall. Además, incluya el puerto 21. 
-Debería verse como a continuación:
+Uso Cómo abrir un puerto en el Firewall de Windows Server para agregar los puertos en su Firewall. Además, incluya el puerto 21. Debería verse como a continuación:
+
 ![image](https://github.com/calles/GII_Redes/assets/22343642/6ad5c8ff-4ae2-493d-b684-5ab94bedc648)
 
 
