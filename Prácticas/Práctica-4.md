@@ -1,24 +1,27 @@
 ## Instalar y configurar el servidor FTP en Windows Server 2019
 
 Introducción
-El protocolo de transferencia de archivos es un conjunto de reglas que definen cómo se pueden compartir (enviar y recibir) y manipular archivos (crear, renombrar y eliminar) a través de una red TCP/IP. FTP funciona en dos modos, pasivo y activo. De Stackoverflow: "En modo activo, el cliente establece el canal de comandos, pero el servidor es responsable de establecer el canal de datos. En el modo pasivo, el cliente establece ambos canales y, a continuación, solicita al servidor (en el canal de comandos) que comience a escuchar en un puerto (a discreción del servidor) en lugar de intentar establecer una conexión con el cliente. El servidor también devuelve al cliente el número de puerto que ha seleccionado para escuchar para que el cliente sepa cómo conectarse a él".
+El protocolo de transferencia de archivos es un conjunto de reglas que definen cómo se pueden compartir (enviar y recibir) y manipular archivos (crear, renombrar y eliminar) a través de una red TCP/IP. 
 
 Paso 1: Iniciar el Administrador del servidor
 Al igual que con todos los roles de Windows Server, tenemos que ir al Administrador del servidor para comenzar la instalación. Presione la tecla "Windows" y busque "Administrador del servidor" si aún no está abierto. Una vez abierto, haga clic en "Agregar roles y características".
-
+![image](https://github.com/calles/GII_Redes/assets/22343642/f27bb1f1-6a63-4ed3-b567-a340b958388e)
 
 
 Paso 2: Haga clic en Siguiente en el asistente
 Paso 3: Seleccionar el tipo de instalación
 En la página "Seleccionar tipo de instalación", seleccione "Instalación basada en roles o en funciones" y haga clic en "Siguiente"
+![image](https://github.com/calles/GII_Redes/assets/22343642/47afb4f2-6969-4c10-b455-98d2295baf2f)
 
 
 Paso 4: Elegir el servidor de destino
 Seleccione el servidor en el que instalará NFS y haga clic en "Siguiente"
+![image](https://github.com/calles/GII_Redes/assets/22343642/4fbf43c3-1fbc-4188-ab3b-782c401499a4)
 
 
 Paso 5: Seleccionar los roles que desea instalar
 Seleccione la casilla de verificación "Servidor web (IIS)" y haga clic en "Agregar funciones" en la ventana emergente que aparecerá como se muestra a continuación. Haga clic en "Siguiente" una vez hecho esto.
+![image](https://github.com/calles/GII_Redes/assets/22343642/c3d41229-e33b-4002-805a-2983f2eb20be)
 
 
 Paso 6: Seleccionar características
