@@ -6,38 +6,34 @@ El protocolo de transferencia de archivos es un conjunto de reglas que definen c
 Paso 1: Iniciar el Administrador del servidor
 Al igual que con todos los roles de Windows Server, tenemos que ir al Administrador del servidor para comenzar la instalación. Presione la tecla "Windows" y busque "Administrador del servidor" si aún no está abierto. Una vez abierto, haga clic en "Agregar roles y características".
 ![image](https://github.com/calles/GII_Redes/assets/22343642/f27bb1f1-6a63-4ed3-b567-a340b958388e)
-
+![image](https://github.com/calles/GII_Redes/assets/22343642/47afb4f2-6969-4c10-b455-98d2295baf2f)
 
 Paso 2: Haga clic en Siguiente en el asistente
 Paso 3: Seleccionar el tipo de instalación
 En la página "Seleccionar tipo de instalación", seleccione "Instalación basada en roles o en funciones" y haga clic en "Siguiente"
-![image](https://github.com/calles/GII_Redes/assets/22343642/47afb4f2-6969-4c10-b455-98d2295baf2f)
-
+![image](https://github.com/calles/GII_Redes/assets/22343642/4fbf43c3-1fbc-4188-ab3b-782c401499a4)
 
 Paso 4: Elegir el servidor de destino
 Seleccione el servidor en el que instalará NFS y haga clic en "Siguiente"
-![image](https://github.com/calles/GII_Redes/assets/22343642/4fbf43c3-1fbc-4188-ab3b-782c401499a4)
-
+![image](https://github.com/calles/GII_Redes/assets/22343642/c3d41229-e33b-4002-805a-2983f2eb20be)
 
 Paso 5: Seleccionar los roles que desea instalar
 Seleccione la casilla de verificación "Servidor web (IIS)" y haga clic en "Agregar funciones" en la ventana emergente que aparecerá como se muestra a continuación. Haga clic en "Siguiente" una vez hecho esto.
-![image](https://github.com/calles/GII_Redes/assets/22343642/c3d41229-e33b-4002-805a-2983f2eb20be)
-
+![image](https://github.com/calles/GII_Redes/assets/22343642/642db7db-8579-4797-8a3e-b0d00f51af02)
 
 Paso 6: Seleccionar características
 En la etapa "Seleccionar características", simplemente haga clic en "Siguiente" y haga clic en "Siguiente" nuevamente en la etapa "Rol de servidor web (IIS)" también.
-
+![image](https://github.com/calles/GII_Redes/assets/22343642/45c5321c-908d-437a-b89d-7cb83c275de8)
 
 Paso 7: Seleccionar servicios de rol
 Este es el paso que hemos estado esperando. Entre las muchas casillas de verificación, seleccione "Servidor de archivos" y presione "Siguiente". Después de eso, haga clic felizmente en "Instalar" y espere a que su servidor termine de instalarse.
-
+![image](https://github.com/calles/GII_Redes/assets/22343642/b4a359ff-e784-4254-81d6-41046d5023c7)
 
 Confirme las selecciones de instalación y presione "Instalar"
+![image](https://github.com/calles/GII_Redes/assets/22343642/eb38b644-df4f-4591-8901-82c5920208a8)
 
 
-Si te gusta Powershell, el siguiente comando también te servirá
 
-# Install-WindowsFeature Web-FTP-Server -IncludeManagementTools
 
 Paso 8: Configura tu FTP en modo pasivo
 Configuremos ahora nuestro servidor FTP en modo pasivo como se describe en la sección de introducción.
