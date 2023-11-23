@@ -14,7 +14,7 @@ Actividad:
 4. Habilitar en el DHCP del servidor DHCP Server for VLANs para red "J"
 5. Agregar un router y un pc y conectarlos con el router 18 para que el pc 14 pueda hacer ping.
 
-## Pista numero 1:
+## Pista número 1:
 
 ```ENABLE```
 ```CONFIG TERMINAL ```
