@@ -2,8 +2,7 @@
 
 Resuelve cada uno de los problemas para que la red funcione al 100%. El archivo será dado por el profesor.
 
-![image](https://github.com/calles/GII_Redes/assets/22343642/8ca27dd2-80ad-43e4-83ee-5012d576b2e5)
-
+![image](https://github.com/calles/GII_Redes/assets/22343642/cec2681c-4a01-4d3e-9cdb-8019001bf6cb)
 
 Actividad:
 
