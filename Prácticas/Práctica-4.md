@@ -8,6 +8,6 @@ Actividad:
 
 1. Todos los host de la red "A" tienen que acceder al Web Server.
 2. El host 126.4.32.3 no puede acceder al TFTP Server por FTP.
-3. El host IP 126.0.0.2 no puede hacer ping al DATA Server.
+3. El host IP 126.0.0.2 y 126.0.0.3 no puede hacer ping al DATA Server.
 4. Habilitar en el DHCP del servidor DHCP Server for VLANs para red "J"
 5. Agregar un router y un pc y conectarlos con el router 18 para que el pc 14 pueda hacer ping. 
