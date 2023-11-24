@@ -4,7 +4,7 @@ Resuelve cada uno de los problemas para que la red funcione al 100%. El archivo 
 
 ![image](https://github.com/calles/GII_Redes/assets/22343642/cec2681c-4a01-4d3e-9cdb-8019001bf6cb)
 
-[-->Descarga el archivo<--](https://drive.google.com/file/d/1uoI1k6DXoj5mlQxH8tv1V9yFWJV1l2TZ/view?usp=sharing)
+[-->Descarga el archivo<--](https://drive.google.com/file/d/1xQGGHGWL1XLhQVPdJ_ynsQW2u_dop2Iv/view?usp=sharing)
 
 Actividad:
 
