@@ -8,9 +8,9 @@
 - [X] 6. Práctica 2 (Config. Switch - PacketT) 👉 [Enlace](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica-2.md)
 - [X] 7. **Capa 2** 👉 [Enlace](https://docs.google.com/presentation/d/1c3VNwD-6A8HREB_svVU_8D2rA-h3B9Q6/edit?usp=sharing&ouid=115557200077044032866&rtpof=true&sd=true)
 - [X] 8. Práctica 3 (Config. Router - PacketT) 👉 [Enlace](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica-3.md)
-- [X] 9. **Capa 3**  👉 [Enlace1](https://docs.google.com/presentation/d/1rqpF0xriAdUxYREwLd1Dtw6R4zEzvDqL/edit?usp=sharing&ouid=115557200077044032866&rtpof=true&sd=true)  👉 [Enlace2](https://docs.google.com/presentation/d/1ZcQGTiPzJKxSMKl67YBkKHx8GN94m9gI/edit?usp=sharing&ouid=115557200077044032866&rtpof=true&sd=true)
+- [X] 9. **Capa 3**  👉 [Enlace](https://docs.google.com/presentation/d/1rqpF0xriAdUxYREwLd1Dtw6R4zEzvDqL/edit?usp=sharing&ouid=115557200077044032866&rtpof=true&sd=true)
 - [X] 10. Práctica 4 (Config. Servidor FTP VS TFTP - Azure) 👉 [Enlace](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica-4.md)
-- [ ] 11. **Capa 4**
+- [X] 11. **Capa 4** 👉 [Enlace](https://docs.google.com/presentation/d/1ZcQGTiPzJKxSMKl67YBkKHx8GN94m9gI/edit?usp=sharing&ouid=115557200077044032866&rtpof=true&sd=true)
 - [ ] 12. _PARCIAL (C. 1-4)_
 - [ ] 13. Práctica 5 (Config. Servidor NFS - Azure)
 - [ ] 14. **Capa 5**
