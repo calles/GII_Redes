@@ -14,8 +14,8 @@
 - [X] 12. _Ejecicicos prácticos_ 👉 [Enlace](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Ejecicio.PNG)
 - [X] 13. **PARCIAL (Todo lo aprendidó en clase)**
 - [X] 14. **Cap. 5** 👉 [Enlace](https://docs.google.com/presentation/d/1w5vzMkphUQ3EYYuUo7p72Ol9_0C6Z3ik/edit?usp=sharing&ouid=115557200077044032866&rtpof=true&sd=true)
-- [ ] 15. Práctica 6 (Certificado SSL - Azure)
-- [ ] 16. **Cap. 6**
+- [ ] 15. **Cap. 6** 👉 [Enlace]
+- [ ] 16. **Cap. 7** 👉 [Enlace]
 _________
 ## Vulnerabilidades por cada capa del medelo OSI
 <img width="600" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/8f781e97-1d68-43b0-9bc2-d355b5774c8e"><br/>
