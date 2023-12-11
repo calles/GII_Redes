@@ -11,8 +11,8 @@
 - [X] 9. **Capa 3**  👉 [Enlace](https://docs.google.com/presentation/d/1rqpF0xriAdUxYREwLd1Dtw6R4zEzvDqL/edit?usp=sharing&ouid=115557200077044032866&rtpof=true&sd=true)
 - [X] 10. Práctica 4 (Config. Servidor FTP VS TFTP - Azure) 👉 [Enlace](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica-4.md)
 - [X] 11. **Capa 4** 👉 [Enlace](https://docs.google.com/presentation/d/1ZcQGTiPzJKxSMKl67YBkKHx8GN94m9gI/edit?usp=sharing&ouid=115557200077044032866&rtpof=true&sd=true)
-- [ ] 12. _Ejecicicos prácticos_ 👉 [Enlace](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Ejecicio.PNG)
-- [ ] 13. **PARCIAL (Todo lo aprendidó en clase)**
+- [X] 12. _Ejecicicos prácticos_ 👉 [Enlace](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Ejecicio.PNG)
+- [X] 13. **PARCIAL (Todo lo aprendidó en clase)**
 - [ ] 14. Práctica 5 (Config. Servidor NFS - Azure)
 - [ ] 15. **Capa 5**
 - [ ] 16. Práctica 6 (Certificado SSL - Azure)
