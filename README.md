@@ -13,10 +13,9 @@
 - [X] 11. **Capa 4** 👉 [Enlace](https://docs.google.com/presentation/d/1ZcQGTiPzJKxSMKl67YBkKHx8GN94m9gI/edit?usp=sharing&ouid=115557200077044032866&rtpof=true&sd=true)
 - [X] 12. _Ejecicicos prácticos_ 👉 [Enlace](https://github.com/calles/GII_Redes/blob/main/Pr%C3%A1cticas/Ejecicio.PNG)
 - [X] 13. **PARCIAL (Todo lo aprendidó en clase)**
-- [ ] 14. Práctica 5 (Config. Servidor NFS - Azure)
-- [ ] 15. **Capa 5**
-- [ ] 16. Práctica 6 (Certificado SSL - Azure)
-- [ ] 17. **Capa 6**
+- [ ] 14. **Capa 5**
+- [ ] 15. Práctica 6 (Certificado SSL - Azure)
+- [ ] 16. **Capa 6**
 _________
 ## Vulnerabilidades por cada capa del medelo OSI
 <img width="600" alt="image" src="https://github.com/calles/GII_Redes/assets/22343642/8f781e97-1d68-43b0-9bc2-d355b5774c8e"><br/>
